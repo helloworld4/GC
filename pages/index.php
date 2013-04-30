@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="../styles/homepage.css">
         <style> 
           	#loginref {
-        		text-align: right;
+        		text-align: right; 
         		font-size:110%;
         	}	
         	img {
@@ -19,7 +19,7 @@
     </head>
     <body>
     	<header>
-        	<h1 style="font-family: monospace">G-A-U-S-S-C-H-A-I-N</h1>
+        	<h1 style="font-family: monospace">G-A-U-S-S-C-H-A-I-N</h1> <!-- bbf-->
         </header>
         <aside>
         	<div id="loginlogout">
