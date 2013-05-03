@@ -6,5 +6,5 @@
     } else {
         $status = "dead";
     }
-    echo "The IP address, $ip, is  ".$status;
+    echo "Uh, The IP address, $ip, is  ".$status;
 ?>
