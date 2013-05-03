@@ -21,13 +21,13 @@
 				WHERE email='$email'";
 		$db->exec($command);
 		
-		$query="SELECT num_solved from accounts
+		/* $query="SELECT num_solved from accounts
 				WHERE email='$email'";
 		$ns=$db->query($query);
 		$ns=$ns->fetch();
 		$ns=$ns[0];
 		$ns+=1;
-		setcookie("num_solved",$ns,0,"http://localhost/GC");
+		setcookie("num_solved",$ns,0,"http://localhost/GC"); */
 		
 		$command="UPDATE problems
 				  SET num_solutions=num_solutions+1
