@@ -4,7 +4,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Gauss Chains Home Page</title>
-        <link rel="stylesheet" href="../styles/homepage.css">
+        <link rel="stylesheet" href="../styles/default.css">
         <style> 
           	#loginref {
         		text-align: right; 
